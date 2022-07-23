@@ -1,6 +1,6 @@
 hello git!!
 hello git!!
-this is hello.txt
+this is hello.txt 1 hot-fix test
 this is hello.txt 2
 this is hello.txt 3
 this is hello.txt 4 master test
